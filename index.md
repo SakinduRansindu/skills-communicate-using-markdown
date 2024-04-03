@@ -15,3 +15,7 @@ int add(int num1, int num2){
   return num1+num2;
 }
 ```
+
+- [ ] create the main method and get 2 numbers as input
+- [x] create a add function and call it from main function
+- [ ] get the result to a variable and print it.
